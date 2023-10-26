@@ -38,4 +38,8 @@ body{
 }
 .Nome h1{
     margin-top: 77px;
+    font-size: 36px;
+    color: #fff; /* Cor do texto */
+    text-transform: uppercase;
+    text-shadow: 4px 4px 0 #00f, 7px 7px 0 #0f0, 10px 10px 0 #f00;
 }
