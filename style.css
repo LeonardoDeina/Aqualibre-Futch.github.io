@@ -1,0 +1,38 @@
+body{
+    background-color: goldenrod;
+}
+.header{
+    background-color: white;
+    color:black;
+    float:top;
+    height:200px;
+    margin: 0px 10px 0px 10px;
+}
+.content{
+    background-color: gray;
+    color:black;
+    float:top;
+    height: 550px;
+    margin:0px 10px 0px 10px;
+}
+.logo{
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+    float: left;
+    
+}
+.logo img{
+    
+}
+.Nome{
+    float: left;
+    height: 200px;
+    width: 400px;
+    background-color: red;
+    text-align: center;
+    margin-left: 300px;
+}
+.Nome h1{
+    margin-top: 77px;
+}
