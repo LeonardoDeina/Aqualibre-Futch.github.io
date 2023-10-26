@@ -21,6 +21,7 @@ body{
     width: 200px;
     float: left;
     border-radius:100%;
+    margin-left:2px;
 }
 .logo img{
     height:200px;
