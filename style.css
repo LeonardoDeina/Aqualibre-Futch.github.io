@@ -20,10 +20,10 @@ body{
     height: 200px;
     width: 200px;
     float: left;
-    
 }
 .logo img{
-    
+    height:200px;
+    width:200px;
 }
 .Nome{
     float: left;
