@@ -11,6 +11,8 @@ body{
 }
 .content{
     background-image: url("campoFut.jpeg");
+    background-repeat:no-repeat;
+    background-size:cover;
     background-color: gray;
     color:black;
     float:top;
