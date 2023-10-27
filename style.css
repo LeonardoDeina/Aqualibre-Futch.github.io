@@ -41,5 +41,5 @@ body{
     margin-top: 77px;
     font-size: 36px;
     color: #fff;
-  -webkit-text-stroke: 2px #000; /* Largura e cor da borda para navegadores Webkit */
+  -webkit-text-stroke: 4px #000; /* Largura e cor da borda para navegadores Webkit */
 }
