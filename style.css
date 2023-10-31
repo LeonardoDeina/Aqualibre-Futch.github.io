@@ -1,8 +1,8 @@
 * { padding: 0; margin: 0; }
 
-body { background: #039a01 url(images/grass.jpg) repeat fixed; color: #363535; font: normal 11px/18px verdana, arial, helvetica, sans-serif; margin-bottom: 10px; }
+body { background: #039a01 url(grass.jpg) repeat fixed; color: #363535; font: normal 11px/18px verdana, arial, helvetica, sans-serif; margin-bottom: 10px; }
 
-#Corpo { background: url(images/bg.gif) repeat-y 0% 0%; border-bottom: 1px solid #336600; margin: 0 auto; width: 650px; }
+#Corpo { background: url(bg.gif) repeat-y 0% 0%; border-bottom: 1px solid #336600; margin: 0 auto; width: 650px; }
 
 #header { background: #008000; width: 650px; height: 133px; }
 
@@ -10,7 +10,7 @@ body { background: #039a01 url(images/grass.jpg) repeat fixed; color: #363535; f
 
 #CampoLateral { display: inline; width: 180px; float: left; }
 
-#Conteudo { background: url(images/bg_main.gif) no-repeat top right; float: right; width: 430px; padding: 10px 20px 20px 0; display: inline; position: relative; }
+#Conteudo { background: url(bg_main.gif) no-repeat top right; float: right; width: 430px; padding: 10px 20px 20px 0; display: inline; position: relative; }
 
 #Conteudo p { padding-bottom: 15px; }
 
@@ -48,20 +48,20 @@ body { background: #039a01 url(images/grass.jpg) repeat fixed; color: #363535; f
 
 
 
-#Conteudo h1 { background: url(images/trophy.png) no-repeat 0% 5px;
+#Conteudo h1 { background: url(trophy.png) no-repeat 0% 5px;
 font: 20px/42px georgia, times new roman, times, serif; letter-spacing: 2px; padding-left: 36px; }
 
 #Conteudo h2{ background-color: #000080;color:white; font: bold 16px/22px georgia, times new roman, times, serif; letter-spacing: 2px; border-top: 1px solid #363636; border-bottom: 1px solid #363636; margin-bottom: 10px; padding-left: 5px; }
 
-a, a:link, a:active, a:visited { background: url(images/link.gif) no-repeat 0% 2px; color: #3cb371; font-weight: bold; outline: none; padding-left: 15px; text-decoration: underline; }
+a, a:link, a:active, a:visited { background: url(link.gif) no-repeat 0% 2px; color: #3cb371; font-weight: bold; outline: none; padding-left: 15px; text-decoration: underline; }
 
 a:hover { color: #ff8c00; text-decoration: none; }
 
-div.news { background: url(images/h2_line.gif) repeat-x 0% 15px; text-align: center; }
+div.news { background: url(h2_line.gif) repeat-x 0% 15px; text-align: center; }
 
 div.news p { text-align: left; }
 
-div.news a, div.news a:link, div.news a:active, div.news a:visited { background: url(images/page.gif) no-repeat 0% 0%; color: #363636; padding: 0 0 5px 21px; }
+div.news a, div.news a:link, div.news a:active, div.news a:visited { background: url(page.gif) no-repeat 0% 0%; color: #363636; padding: 0 0 5px 21px; }
 
 div.news a:hover { color: #999; text-decoration: none; }
 
@@ -69,7 +69,7 @@ div.news strong { color: #336600; font: normal 16px/32px georgia, times new roma
 
 #CampoLateral h3 { font: bold 11px/18px verdana,arial, helvetica, sans-serif; text-transform: uppercase; letter-spacing: 2px; margin: 10px 0 10px 0; }
 
-#CampoLateral h4 { background: url(images/ball.gif) no-repeat left 6px; margin: 10px 5px 0 0; font: bold 11px/18px verdana,arial, helvetica, sans-serif; text-transform: uppercase; letter-spacing: 2px; text-align: right; border-top: 1px solid #336600; padding-top: 5px; }
+#CampoLateral h4 { background: url(ball.gif) no-repeat left 6px; margin: 10px 5px 0 0; font: bold 11px/18px verdana,arial, helvetica, sans-serif; text-transform: uppercase; letter-spacing: 2px; text-align: right; border-top: 1px solid #336600; padding-top: 5px; }
 
 #Logo {float:left;height:100%; width:45%;margin-left:4%;}
 
