@@ -31,6 +31,7 @@ body {
 .logo img {
     max-width: 100%; /* Ensure the logo image is responsive */
     height: auto; /* Prevent image distortion */
+    border-radius: 50%;
 }
 
 .Nome {
